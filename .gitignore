@@ -1,0 +1,9 @@
+#data relations
+dataFromSamples/
+filePathing.py
+
+#graphs and other results 
+generatedGraphs/
+
+#python operation stuff
+__pycache__/
